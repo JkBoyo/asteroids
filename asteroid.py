@@ -1,5 +1,7 @@
-import pygame
 import random
+
+import pygame
+
 from circleshape import *
 from constants import *
 

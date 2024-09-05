@@ -1,6 +1,8 @@
 import pygame
+
 from circleshape import *
 from constants import *
+
 
 class Shot(CircleShape):
     containers = None
